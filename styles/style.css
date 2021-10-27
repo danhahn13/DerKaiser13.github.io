@@ -1,0 +1,24 @@
+.carousel {
+  width: 640px;
+  height: 360px;
+  float: right;
+}
+.navbar-brand{
+  font-size: xx-large;
+}
+#navbarNav{
+  font-size: x-large;
+  float: right;
+}
+.title{
+  color: darkgreen;
+}
+.accordian-item{
+  color: lightgreen;
+}
+.i{
+  font-size: small;
+}
+h4{
+	color: mediumseagreen;
+}
